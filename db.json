@@ -1,0 +1,28 @@
+{
+  "emails": [
+    {
+      "text": "a title",
+      "id": "e6f2"
+    },
+    {
+      "id": "f95e",
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis eveniet totam laborum facere quae? Molestiae laudantium quibusdam expedita hic cumque quo libero modi tempora alias, voluptatem vitae optio veritatis tempore."
+    },
+    {
+      "id": "4786",
+      "text": "<b>Lorem</b> ipsum dolor sit amet consectetur, adipisicing elit. Quis eveniet totam laborum facere quae? Molestiae laudantium quibusdam expedita hic cumque quo libero modi tempora alias, voluptatem <u>vitae </u>optio veritatis tempore."
+    },
+    {
+      "id": "90e7",
+      "text": "<u>helllo</u>"
+    },
+    {
+      "id": "4b0d",
+      "text": "Enter text"
+    },
+    {
+      "id": "efb1",
+      "text": "<b>hello</b>"
+    }
+  ]
+}
